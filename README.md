@@ -8,3 +8,5 @@ Link - /Astar.py
 
 2. A program to solve the hyper sudoku puzzle using the backtracking algorithm.
 The heuristics used are the Minimum Remaining Value and degree heuristics.
+
+Both algoritms are implemented using Python
